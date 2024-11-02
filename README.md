@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ASP.NET
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me DRC CONGO
-- 😄 Pronouns: ...
+- 😄 Pronouns: ..
 - ⚡ Fun fact: Football
 
 <!---
